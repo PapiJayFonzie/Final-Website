@@ -1,0 +1,282 @@
+
+:root {
+    --primary: #0d6efd;
+    --dark: #21252f;
+    --body: #888;
+    --box-shadow: 0 8px 22px rgba(0,0,0,0.1)
+}
+
+body{
+    font-family: Sora, "sans-serif";
+    line-height: 1.7;
+    color: var(--body);
+}
+
+h1,h2,h3,h4,h5,h6,
+.display-4{
+    color: var(--dark);
+    font-weight: 700;
+}
+
+a {
+    color: var(-dark);
+    text-decoration: none;
+}
+
+.btn{
+    padding: 14px 18px;
+    border-width: 2px;
+    border-radius: 0;
+}
+
+.hero {
+    background-image: url(img/img4.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    z-index: 2;
+}
+
+.hero::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(21, 20, 51, 0.8);
+    z-index: -1;
+}
+
+.container a >img {
+    width: 80px;
+    height: 80px;
+
+}
+
+.card{
+    align-items: 50px;
+
+}
+
+.dropdown-item:hover{
+     color: #0d6efd;
+}
+
+.card-text1:hover{
+    color: #0d6efd;
+}
+
+.card-text2:hover{
+    color: #0d6efd;
+}
+
+.card-text3:hover{
+    color: #0d6efd;
+}
+
+.card-text4:hover{
+    color: #0d6efd;
+}
+
+.card-text5:hover{
+    color: #0d6efd;
+}
+
+.card-text6:hover{
+    color: #0d6efd;
+}
+
+.card-text7:hover{
+    color: #0d6efd;
+}
+
+.card-text8:hover{
+    color: #0d6efd;
+}
+
+.card-text9:hover{
+    color: #0d6efd;
+}
+
+.card-text10:hover{
+    color: #0d6efd;
+}
+
+.card-text11:hover{
+    color: #0d6efd;
+}
+
+.card-text12:hover{
+    color: #0d6efd;
+}
+
+.card-text13:hover{
+    color: #0d6efd;
+}
+
+.card-text14:hover{
+    color: #0d6efd;
+}
+
+.card-text15:hover{
+    color: #0d6efd;
+}
+
+.card-text16:hover{
+    color: #0d6efd;
+}
+
+.card-text17:hover{
+    color: #0d6efd;
+}
+
+.card-text18:hover{
+    color: #0d6efd;
+}
+
+.card-text19:hover{
+    color: #0d6efd;
+}
+
+.card-text20:hover{
+    color: #0d6efd;
+}
+
+.card-text21:hover{
+    color: #0d6efd;
+}
+
+.card-text22:hover{
+    color: #0d6efd;
+}
+
+.card-text23:hover{
+    color: #0d6efd;
+}
+
+.card-text24:hover{
+    color: #0d6efd;
+}
+
+.card-text25:hover{
+    color: #0d6efd;
+}
+
+.card-text26:hover{
+    color: #0d6efd;
+}
+
+.card-text27:hover{
+    color: #0d6efd;
+}
+
+.card-text28:hover{
+    color: #0d6efd;
+}
+
+.card-text29:hover{
+    color: #0d6efd;
+}
+
+.card-text30:hover{
+    color: #0d6efd;
+}
+
+.card-text31:hover{
+    color: #0d6efd;
+}
+
+.card-text32:hover{
+    color: #0d6efd;
+}
+
+.card-text33:hover{
+    color: #0d6efd;
+}
+
+.card-text34:hover{
+    color: #0d6efd;
+}
+
+.card-text35:hover{
+    color: #0d6efd;
+}
+
+.card-text36:hover{
+    color: #0d6efd;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.card-text24:hover{
+    color: #0d6efd;
+}
+
+.card-text24:hover{
+    color: #0d6efd;
+}
+
+.pepa{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.7;
+}
+
+.chick{
+    width: 80%;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 0;
+    position: absolute;
+    left: 10.5%;
+    top: 35%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.Footerimage >img {
+    width: 80px;
+    height: 80px;
+}
+
+.textchange {
+   font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.kate{
+    color: chartreuse;
+}
+
+.OhMayGod{
+    width: 80%;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 0;
+    position: absolute;
+    left: 10.5%;
+    top: 31%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+
+}
+
+.hoy{
+    color: #0d6efd;
+
+}
+
+.bengbeng{
+    color: #0d6efd;
+    font-family: 'Sora', sans-serif;
+}
+
+.Lenard{
+    color: black; 
+
+}
